@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnshB04
 - 👀 I’m interested in data structures and algorithms and frontend web development.
 - 🌱 I’m currently pursuing B.Tech from IIIT Bhopal in Electronics and communiaction engineering.
-- 💞️ I’m looking to collaborate on frontend work of wbepages.
+- 💞️ I’m looking to collaborate on frontend work of webpages.
 - 📫 Reach me at anshbhadouria003@gmail.com
 
 <!---
